@@ -1,0 +1,11 @@
+farmaceutico
+Faxineiro
+Deposito
+Assistente de caixa
+Acougue
+Mercearia
+Farmacia
+Padaria e Frios
+Lider de Acougue
+Marketing
+Financeiro
